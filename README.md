@@ -17,7 +17,7 @@ The primary objectives of this analysis are:
 - Identifying top-performing products and Class.
 - Providing actionable recommendations for business improvements.
 
-### Dataset
+### Datasets
 - **QVI_transaction_data:** 'DATE', 'STORE_NBR', 'LYLTY_CARD_NBR', 'TXN_ID', 'PROD_NBR',
        'PROD_NAME', 'PROD_QTY', 'TOT_SALES'.
 - **QVI_purchase_behaviour:** 'LYLTY_CARD_NBR', 'LIFESTAGE', 'PREMIUM_CUSTOMER'.
